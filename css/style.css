@@ -7,7 +7,9 @@
 }
 
 /*////////// Global Styles //////////*/
-
+* {
+	font-family: 'Baskerville'
+}
 body {
 	background: rgb(247, 240, 238);
 	font-size: 100%;
