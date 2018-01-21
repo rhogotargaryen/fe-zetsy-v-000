@@ -62,7 +62,7 @@ p {
 	transition: border 1s;
 	width: 23%;
 	display: inline;
-	border: 7px solid rgb(154, 173, 167);
+	border: 7px solid rgb(204, 204, 204);
 }
 
 .button-4 img:hover {
