@@ -27,4 +27,6 @@ img, video, audio {
 	padding: 5px 5px 0px;
 	background: rgb(154, 173, 167);
 }
-
+ hr {
+	 height: 5px;
+ }
