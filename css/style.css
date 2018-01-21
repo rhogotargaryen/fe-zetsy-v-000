@@ -30,6 +30,6 @@ img, video, audio {
 
 header {
 	display: block;
-
+  line-height: 5px;
 	background: grey;
 }
