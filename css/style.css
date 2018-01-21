@@ -51,6 +51,10 @@ h2 {
 	font-size: 2em;
 }
 
+p {
+	color: black;
+}
+
 .button-4 {
 	width: 24.25%;
 	display: inline;
