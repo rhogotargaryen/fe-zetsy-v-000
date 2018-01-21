@@ -28,5 +28,6 @@ img, video, audio {
 	background: rgb(154, 173, 167);
 }
  hr {
-	 height: 5px;
+	 position: relative;
+	 top: 5px;
  }
