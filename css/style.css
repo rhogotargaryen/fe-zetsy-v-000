@@ -62,6 +62,7 @@ p {
 	display: inline;
 	margin-right: 1%;
 	border: 2px solid rgb(111,127,122);
+	float: left;
 }
 
 
