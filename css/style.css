@@ -8,7 +8,7 @@
 
 /*////////// Global Styles //////////*/
 * {
-	font-family: 'Baskerville', serif;
+	font-family: 'times new roman', serif;
 	color: rgb(154, 173, 167);
 	font-size: 1em;
 }
@@ -53,7 +53,7 @@ h2 {
 
 p {
 	color: #555;
-	font-family: 'times new roman';
+
 }
 
 .button-4 {
