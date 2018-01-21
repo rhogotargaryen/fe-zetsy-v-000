@@ -58,13 +58,10 @@ p {
 }
 
 .button-4 img {
-	width: 24.25%;
+	width: 24%;
 	display: inline;
 	margin-right: 1%;
 	border: 2px solid rgb(111,127,122);
 }
 
 
-.last-button {
-	margin-right: 0;
-}
