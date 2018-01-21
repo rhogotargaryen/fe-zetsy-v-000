@@ -64,6 +64,6 @@ p {
 	border: 7px solid rgb(111,127,122);
 }
 
-a:hover {
-	border: 7px solid red;
+.button-4 a:hover {
+	border: 7px solid rgb(111,127,122);
 }
