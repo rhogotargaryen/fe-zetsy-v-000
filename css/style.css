@@ -68,3 +68,7 @@ p {
 .button-4 img:hover {
 	border: 7px solid rgb(111,127,122);
 }
+
+footer {
+	text-align: right;
+}
