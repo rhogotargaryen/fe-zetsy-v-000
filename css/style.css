@@ -60,7 +60,7 @@ p {
 .button-4 img {
 	width: 24%;
 	display: inline;
-	border: 2px solid rgb(111,127,122);
+	border: 10px solid rgb(111,127,122);
 }
 
 .button-4:hover {
