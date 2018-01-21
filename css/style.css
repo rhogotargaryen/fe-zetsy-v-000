@@ -42,3 +42,9 @@ h1 {
 	font-family: 'Baskerville', serif;
 	border-bottom: 1px solid #ccc;
 }
+
+.button-4 {
+	width: 24.25%;
+	display: inline;
+	margin-right: 1%;
+}
