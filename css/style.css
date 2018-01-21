@@ -24,7 +24,7 @@ img, video, audio {
 }
 
 .image-wrapper {
-	padding: 5px;
+	padding: 0px;
 	padding-bottom: 0px;
 	background: rgb(154, 173, 167);
 }
