@@ -12,6 +12,7 @@
 	color: rgb(154, 173, 167);
 	font-size: 1em;
 }
+
 body {
 	background: rgb(247, 240, 238);
 	font-size: 100%;
@@ -64,5 +65,5 @@ p {
 }
 
 .button-4:hover {
-	border-color: rgb(152,173,166);
+	border-color: red;
 }
