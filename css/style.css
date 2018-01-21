@@ -33,4 +33,5 @@ header {
   line-height: 2px;
 	background: grey;
 	margin-bottom: 10px;
+	visibility: hidden;
 }
