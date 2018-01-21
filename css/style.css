@@ -62,3 +62,7 @@ p {
 	display: inline;
 	border: 2px solid rgb(111,127,122);
 }
+
+.button-4:hover {
+	border-color: rgb(152,173,166);
+}
