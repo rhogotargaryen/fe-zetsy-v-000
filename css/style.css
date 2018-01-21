@@ -30,6 +30,6 @@ img, video, audio {
 
 header {
 	display: block;
-	visibility: hidden;
+
 	background: grey;
 }
