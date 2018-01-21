@@ -20,5 +20,5 @@ body {
 /* Write all remaining styles here */
 img, video, audio {
 	max-width: 100%;
-	padding: 2px;
+	border: 2px;
 }
