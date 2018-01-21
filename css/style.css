@@ -17,7 +17,7 @@ body {
 	background: rgb(247, 240, 238);
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
-	margin: 0;
+	width: auto;
 }
 
 .wrapper {
