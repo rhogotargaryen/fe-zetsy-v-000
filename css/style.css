@@ -27,3 +27,9 @@ img, video, audio {
 	padding: 5px 5px 0px;
 	background: rgb(154, 173, 167);
 }
+
+header {
+	display: block;
+	visibility: hidden;
+	background: grey;
+}
