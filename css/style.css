@@ -9,6 +9,7 @@
 /*////////// Global Styles //////////*/
 * {
 	font-family: 'Baskerville', serif;
+		color: rgb(154, 173, 167);
 }
 body {
 	background: rgb(247, 240, 238);
