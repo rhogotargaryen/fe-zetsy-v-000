@@ -31,10 +31,7 @@ img, video, audio {
 	padding: 5px 5px 0px;
 	background: rgb(154, 173, 167);
 }
- hr {
-	 position: relative;
-	 top: 5px;
- }
+
 
 h1 {
 	color: rgb(154, 173, 167);
